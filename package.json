@@ -1,7 +1,7 @@
 {
   "name": "sum-number-js",
-  "version": "1.2.0",
-  "description": "My maths library with all functions",
+  "version": "1.4.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,6 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-	"sum-soweksnsvbabs":"^1.0.0",
 	"sum-verradi676":"^1.0.0",
 	"sum-kimzey137":"^1.0.0",
 	"sum-pattubig":"^1.0.0",
@@ -139,6 +138,7 @@
 	"sum-thaochiphuong55":"^1.0.0",
 	"sum-pguongthao655":"^1.0.0",
 	"sum-thanhmaihoang":"^1.0.0",
+	"sum-nguyendantam":"^1.0.0",
 	"sum-nguyendantam":"^1.0.0",
 	"sum-luongthuthao":"^1.0.0",
 	"sum-luongbichthao":"^1.0.0",
@@ -422,6 +422,7 @@
 	"sum-thinhphatdoan":"^1.0.0",
 	"sum-thuanhoapham":"^1.0.0",
 	"sum-feradilaka":"^1.0.0",
+	"sum-tarachamario":"^1.0.0",
 	"sum-congthao":"^1.0.0",
 	"sum-phangtay":"^1.0.0",
 	"sum-ongthatpham":"^1.0.0",
@@ -439,7 +440,9 @@
 	"sum-doantaypham":"^1.0.0",
 	"sum-ofanidanazafod":"^1.0.0",
 	"sum-taylocthanh":"^1.0.0",
+	"sum-thongdat":"^1.0.0",
 	"sum-thuantay":"^1.0.0",
+	"sum-toancongdoan":"^1.0.0",
 	"sum-congquyentran":"^1.0.0",
 	"sum-agiananagavavs":"^1.0.0",
 	"sum-stegallagh":"^1.0.0",
@@ -492,7 +495,8 @@
     "sign-alex": "^1.0.0",
     "kimkim-sum": "^1.0.0",
     "tinhtong2so": "^1.0.0",
-    "thinhphi": "^1.0.0"
+    "thinhphi": "^1.0.0",
+    "sum-giahuyluong": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.21.4",
@@ -519,6 +523,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/haudn1997/sum-number-js.git"
   },
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
   "author": "hammer1219",
   "license": "MIT",
   "bugs": {
