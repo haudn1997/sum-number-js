@@ -1,0 +1,19 @@
+{
+  "name": "sum-multiple-number",
+  "version": "1.0.0",
+  "description": "My maths library with all functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haudn1997/sum-number-js.git"
+  },
+  "author": "hammer1219",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haudn1997/sum-number-js/issues"
+  },
+  "homepage": "https://github.com/haudn1997/sum-number-js#readme"
+}
